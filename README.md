@@ -90,12 +90,14 @@ This project presents a comparative financial analysis of five leading Indian ph
 
 ### Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ### Financial Data
 
-![Financial Data](financial_data.png)
+![Financial Data](financial data.png.png)
 
 ### Calculations
+
+![Calculations](calculations.png.png)
 
 ![Calculations](calculations.png)
