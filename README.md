@@ -86,3 +86,16 @@ This project presents a comparative financial analysis of five leading Indian ph
 - Business Analytics
 - Data Visualization
 - Analytical Thinking
+## 📸 Project Screenshots
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Financial Data
+
+![Financial Data](financial_data.png)
+
+### Calculations
+
+![Calculations](calculations.png)
