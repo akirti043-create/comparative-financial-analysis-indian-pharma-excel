@@ -94,7 +94,8 @@ This project presents a comparative financial analysis of five leading Indian ph
 
 ### Financial Data
 
-![Financial Data](financial data.png.png)
+![Financial Data](financial%20data.png.png)
+
 
 ### Calculations
 
